@@ -64,6 +64,10 @@ Para probar la aplicación, ingresa al link y pruebala!!!
 
  https://x.thunkable.com/copy/32bc8760daac5298d352b01d83945334
 
+ Para ingresar al Firebase, dale clic en el link!!!
+
+ https://console.firebase.google.com/project/datos-esp32-ac4b6/overview?hl=es-419&fb_gclid=Cj0KCQjw58PGBhCkARIsADbDilw-BH1XOq_vJGPt3A1WoNqWEfJud2QC3iff1Dzun7QDWLS8ExRdakAaAgX6EALw_wcB
+
  
 ---
 
