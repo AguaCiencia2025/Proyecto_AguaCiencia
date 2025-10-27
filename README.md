@@ -63,10 +63,6 @@ Detalles avanzados 🔑
 Para probar la aplicación, ingresa al link y pruebala!!!
 
  https://x.thunkable.com/copy/4a6353d575ee34cb7f8a1f06405db930
- 
-Para ingresar al Firebase, dale clic en el link!!!
-
- https://datos-esp32-ac4b6-default-rtdb.firebaseio.com/
 
 ---
 
